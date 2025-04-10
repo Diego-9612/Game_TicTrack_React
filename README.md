@@ -11,7 +11,7 @@ TicTrack es un juego de tres en línea (Tic Tac Toe) desarrollado con React. Est
 
 Puedes probar el juego directamente en Vercel:
 
-👉 [tictrack.vercel.app](game-tic-track-react.vercel.app)
+👉 [tictrack.vercel.app](https://game-tic-track-react.vercel.app/)
 
 ## 🔧 Tecnologías utilizadas
 
