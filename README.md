@@ -92,7 +92,7 @@ npm run dev
 
 Desarrollado por **Diego Guerrero**
 📧 [diegoguerrero@umariana.edu.co](diegoguerrero@umariana.edu.co@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/diego-guerrero-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/diego-guerrero-software/)
 🐱 [GitHub](https://github.com/Diego-9612)
 
 ---
